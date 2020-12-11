@@ -1,0 +1,13 @@
+{
+    "name": "zanonicintia",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "",
+      "start": "json-server -d 2000 -w --port 3000 db.json"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  

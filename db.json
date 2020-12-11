@@ -1,0 +1,54 @@
+{
+  "anuncios": [
+    {
+      "id": 3,
+      "titulo": "Corsa",
+      "transaccion": "Venta",
+      "descripcion": "viejo",
+      "precio": "32",
+      "num_puertas": "3",
+      "num_KMs": "2",
+      "potencia": "23"
+    },
+    {
+      "id": 4,
+      "titulo": "Fiesta",
+      "transaccion": "Venta",
+      "descripcion": "alta gama",
+      "precio": "23334",
+      "num_puertas": "2",
+      "num_KMs": "334",
+      "potencia": "32"
+    },
+    {
+      "id": 5,
+      "titulo": "Lamborghini",
+      "transaccion": "Venta",
+      "descripcion": "Auto de Lujo",
+      "precio": "7800999",
+      "num_puertas": "3",
+      "num_KMs": "0",
+      "potencia": "890"
+    },
+    {
+      "id": 6,
+      "titulo": "Ducati",
+      "transaccion": "Alquiler",
+      "descripcion": "moto carrera",
+      "precio": "204952",
+      "num_puertas": "3",
+      "num_KMs": "22",
+      "potencia": "3"
+    },
+    {
+      "id": 7,
+      "titulo": "BMW",
+      "transaccion": "Venta",
+      "descripcion": "used",
+      "precio": "204952",
+      "num_puertas": "5",
+      "num_KMs": "2232",
+      "potencia": "456"
+    }
+  ]
+}
