@@ -145,7 +145,7 @@ async function updatearAnuncio(frm) {
         config
       );
       listaAnuncio[index] = frm;
-      console.log(`${res.status} Se updateo el anuncio correctamente`);
+      console.log(`${res.status} Se modifico el anuncio correctamente`);
     } catch (error) {
       console.error(error);
     }
